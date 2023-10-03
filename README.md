@@ -11,14 +11,14 @@ durante o curso de HTML Web Developer da [Digital Innvoation One](https://www.di
 
 | Aulas | Resumos |
 |-------|---------|
-| Introdução | [Aulas_introduçãoHTML](https://github.com/G2Martins/Dio_Projects_HTML/tree/main/Aulas_IntroducaoHTML) |
-| Introdução Listas | [Aulas_introduçãoHTML_Listas](https://github.com/G2Martins/Dio_Projects_HTML/tree/main/Aulas_IntroducaoHTML_Listas) |
-| Introdução Textos | [Aulas_introduçãoHTML_Textos](https://github.com/G2Martins/Dio_Projects_HTML/tree/main/Aulas_IntroducaoHTML_Textos) |
-| Introdução Links | [Aulas_introduçãoHTML_Links](https://github.com/G2Martins/Dio_Projects_HTML/tree/main/Aulas_IntroducaoHTML_Links) |
-| Desafio Criar Página Web | [Desafio_CriarPaginaWeb](https://github.com/G2Martins/Dio_Projects_HTML/tree/main/Desafio_CriarPaginaWeb) |
-| Formulários | [Aulas_Formularios](https://github.com/G2Martins/Dio_Projects_HTML/tree/main/Aulas_Formularios) |
-| Formulários Checkbox e Ratio| [Aulas_Formularios_Checkbox_Ratio](https://github.com/G2Martins/Dio_Projects_HTML/tree/main/Aulas_Formularios_Checkbox_Ratio) |
-| Formulários Button | [Aulas_Formularios_Button](https://github.com/G2Martins/Dio_Projects_HTML/tree/main/Aulas_Formularios_Button) |
+| Introdução | [Aulas_introduçãoHTML](https://github.com/G2Martins/Dio_Projects_HTML/tree/main/Introducao/Aulas_IntroducaoHTML) |
+| Introdução Listas | [Aulas_introduçãoHTML_Listas](https://github.com/G2Martins/Dio_Projects_HTML/tree/main/Introducao/Aulas_IntroducaoHTML_Listas) |
+| Introdução Textos | [Aulas_introduçãoHTML_Textos](https://github.com/G2Martins/Dio_Projects_HTML/tree/main/Introducao/Aulas_IntroducaoHTML_Textos) |
+| Introdução Links | [Aulas_introduçãoHTML_Links](https://github.com/G2Martins/Dio_Projects_HTML/tree/main/Introducao/Aulas_IntroducaoHTML_Links) |
+| Desafio Criar Página Web | [Desafio_CriarPaginaWeb](https://github.com/G2Martins/Dio_Projects_HTML/tree/main/Introducao/Desafio_CriarPaginaWeb) |
+| Formulários | [Aulas_Formularios](https://github.com/G2Martins/Dio_Projects_HTML/tree/main/Introducao/Aulas_Formularios) |
+| Formulários Checkbox e Ratio| [Aulas_Formularios_Checkbox_Ratio](https://github.com/G2Martins/Dio_Projects_HTML/tree/main/Introducao/Aulas_Formularios_Checkbox_Ratio) |
+| Formulários Button | [Aulas_Formularios_Button](https://github.com/G2Martins/Dio_Projects_HTML/tree/main/Introducao/Aulas_Formularios_Button) |
 
 
 ```
