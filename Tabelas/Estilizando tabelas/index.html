@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tranalhando com tabelas - dio</title>
+    <style>
+        table {
+            -webkit-box-shadow: 12px 14px 6px 5px rgba(0,0,0,0.24);
+            box-shadow: 12px 14px 6px 5px rgba(0,0,0,0.24);
+            border: solid 1px gray;
+        }
+        table thead th{
+            background-color: aquamarine;
+            color: black;
+        }
+        table tfoot td{
+            background-color: lightgray;
+        }
+        table tbody tr:nth-child(even){
+            background-color: aquamarine;
+        }
+        table tr:hover td{
+            background-color: gray;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <table summary="Esta Tabela se refere as idades da turma A da dio" width="250" align="center" cellspacing="0" cellpadding="2">
+        
+        <thead>
+            <tr>
+                <th colspan="2">Minha Tabela</th>
+            </tr>
+            <tr>
+                <th title="Nome Completo">Nome</th>
+                <th title="Idades">Idade</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr id="1">
+                <td>Gustavo</td>
+                <td>20</td>
+            </tr>
+            <tr id="2">
+                <td>Luisa</td>
+                <td>20</td>
+            </tr>
+            <tr id="3">
+                <td>Guxta</td>
+                <td>20</td>
+            </tr>
+            <tr id="4">
+                <td>Gabigol</td>
+                <td>22</td>
+            </tr>
+            <tr id="5">
+                <td>Gabrielle</td>
+                <td>20</td>
+            </tr>
+        </tbody>
+        
+        <tfoot>
+            <td>Total</td>
+            <td>6</td>
+        </tfoot>
+    </table>
+</body>
+</html>
